@@ -39,4 +39,4 @@ These libraries you can install them using pip install or conda
 ## Acknowledgements
 This [article](https://towardsdatascience.com/when-is-it-ok-to-impute-missing-values-with-a-zero-6d94b3bf1352) really helped me with handling missing values in my data
 
-This [article](https://medium.com/@raj5287/effects-of-multi-collinearity-in-logistic-regression-svm-rf-af6766d91f1b#:~:text=Random%20Forest%20uses%20bootstrap%20sampling,different%20set%20of%20data%20points.)helped me to better understanding to the models I fitted 
+This [article](https://medium.com/@raj5287/effects-of-multi-collinearity-in-logistic-regression-svm-rf-af6766d91f1b#:~:text=Random%20Forest%20uses%20bootstrap%20sampling,different%20set%20of%20data%20points.) helped me to reach better understanding to the models I used
